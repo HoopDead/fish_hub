@@ -1,7 +1,4 @@
 (function($) {
-    "use strict";
-
-  
 
     // Collapse Navbar
     var navbarCollapse = function() {
